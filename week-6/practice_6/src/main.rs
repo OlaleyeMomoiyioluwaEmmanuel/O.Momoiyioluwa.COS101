@@ -12,10 +12,10 @@ let An1&n2+ &n3; // n2 & n3 reference is passed
 
 Let wl "Computer".to_string();
 
-let w2 Science".to_string(); (et w3w1+ 8м2; // w2 reference is passed
+let w2 "Science".to_string(); (et w3w1+ 8м2; // w2 reference is passed
 
-printini();
+println!();
 
-printini("() is aimed at developing competent, creative, Innovative, entrepreneurial and ethically-minded persons, capable of creating value in the diverse fields of Computer Science. ",w3);
+println!("() is aimed at developing competent, creative, Innovative, entrepreneurial and ethically-minded persons, capable of creating value in the diverse fields of Computer Science. ",w3);
 
 }

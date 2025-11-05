@@ -1,21 +1,20 @@
 fn main() {
 
-}
 
-Let fullname "Pan-Atlantic University ";
+let fullname "Pan-Atlantic University ";
 
-printini();
+println!();
 
-printin!("Name: ()", fullname);
+println!("Name: ()", fullname);
 
-println();
+println!();
 
-println("Before trim ");
+println!("Before trim ");
 
-printini("length is ()", fullname.len());
+println!("length is ()", fullname.len());
 
-printini();
+println!();
 
-printin! ("After trim ");
+println! ("After trim ");
 
-printin! ("length is ()", fullname.trim().len())
+println! ("length is ()", fullname.trim().len()) }

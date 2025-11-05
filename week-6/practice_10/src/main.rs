@@ -16,8 +16,7 @@ if (c>10) || (d > 10) { } printin!("true");
 
 let is_elder = false;
 
-if lis_elder { printin! ("Not Elder");
+if lis_elder { println! ("Not Elder");}
 
-}
 
 }
